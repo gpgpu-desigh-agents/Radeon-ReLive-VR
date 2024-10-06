@@ -1,0 +1,19 @@
+1.0.26 - Bug fix for the bitrate not going above 50Mbps with Adrenalin 21.6.1 driver
+1.0.25 - Support for 90Hz display on Quest2, fixed a memory leak while looking for servers
+1.0.23 - Fixed a bug causing distortion on the right side of the frame at certain resolutions
+1.0.22 - Fixed a bug causing ReLive VR to fail to connect when multiple servers were present on the network
+1.0.21 - Removed the requirement for GearVR hand controller. Fixed incorrect launch intent handling on Quest
+1.0.20 - Improved latency
+1.0.19 - Fixed audio cutting out under certain conditions, added foveated scaling
+1.0.18 - Audio fixes
+1.0.17 - Fixed audio cutting off after some time on some combination of device… 
+1.0.16 - Fixed an incorrect controller position adjustment resulting in controller jump at certain angles
+1.0.15 - Adjusted controller positions on Quest to match Oculus Rift CV1
+1.0.14 - Fix for a breaking change after Quest/Go firmware update
+1.0.13 - Audio latency optimizations
+1.0.12 - Fixed image distortion when turning head
+1.0.11 - Fixed incorrect height after wake-up from sleep
+1.0.10 - Fixed System Menu button functionality
+1.0.9 - Initial version
+
+
